@@ -1,0 +1,77 @@
+MODEL SETTINGS: 
+{'temperature': 0.1, 'num_predict': 1, 'repeat_penalty': 1, 'top_k': 1, 'top_p': 0.1}
+
+
+----------------------------------------------------------------------------------------------------
+PROMPT NUMBER 1
+Prompt text: 
+Classify the following tweet about the pandemic as one of the following sentiments: Extremely Negative, Negative, Neutral, Positive, or Extremely Positive. Provide only the sentiment classification. Here is the tweet: [INSERT TWEET HERE]
+
+Prompt 1 - Invalid Samples: 0
+Prompt 1 - Most Common Answers: Counter({3: 967, 4: 956, 2: 48, 5: 24, 1: 5})
+
+Metrics for Prompt 1:
+Accuracy: 0.217
+Mean Absolute Error (MAE): 1.312
+
+
+----------------------------------------------------------------------------------------------------
+PROMPT NUMBER 2
+Prompt text: 
+During the COVID-19 pandemic, people expressed a wide range of emotions in their tweets. Given this context, classify the sentiment of the following tweet as: Extremely Negative, Negative, Neutral, Positive, or Extremely Positive. Tweet: [INSERT TWEET HERE]
+
+Prompt 2 - Invalid Samples: 5
+Prompt 2 - Most Common Answers: Counter({4: 1802, 5: 87, 3: 63, 2: 39, 1: 9})
+
+Metrics for Prompt 2:
+Accuracy: 0.1945
+Mean Absolute Error (MAE): 1.4525
+
+
+----------------------------------------------------------------------------------------------------
+PROMPT NUMBER 3
+Prompt text: 
+Analyze the sentiment of this tweet related to the COVID-19 pandemic. Classify it into one of the following categories:
+
+Extremely Negative: Expresses intense frustration, fear, or anger.
+Negative: Expresses mild disappointment or discontent.
+Neutral: Expresses no strong emotion, just stating facts or opinions neutrally.
+Positive: Expresses mild hope or satisfaction.
+Extremely Positive: Expresses strong optimism, joy, or relief.
+
+Here is the tweet: [INSERT TWEET HERE]
+
+Prompt 3 - Invalid Samples: 30
+Prompt 3 - Most Common Answers: Counter({4: 1920, 3: 38, 5: 28, 1: 7, 2: 7})
+
+Metrics for Prompt 3:
+Accuracy: 0.196
+Mean Absolute Error (MAE): 1.4195
+
+
+----------------------------------------------------------------------------------------------------
+PROMPT NUMBER 4
+Prompt text: 
+Determine the sentiment of the following tweet posted during the COVID-19 pandemic. Consider the overall emotion and tone expressed. Classify it as: Extremely Negative, Negative, Neutral, Positive, or Extremely Positive. Tweet: [INSERT TWEET HERE]
+
+Prompt 4 - Invalid Samples: 4
+Prompt 4 - Most Common Answers: Counter({4: 1900, 3: 66, 5: 27, 1: 4, 2: 3})
+
+Metrics for Prompt 4:
+Accuracy: 0.1975
+Mean Absolute Error (MAE): 1.4105
+
+
+----------------------------------------------------------------------------------------------------
+PROMPT NUMBER 5
+Prompt text: 
+Classify the sentiment of this tweet related to the pandemic into one of these categories: Extremely Negative, Negative, Neutral, Positive, or Extremely Positive. Here is the tweet: [INSERT TWEET HERE]
+
+Prompt 5 - Invalid Samples: 9
+Prompt 5 - Most Common Answers: Counter({4: 1694, 3: 246, 5: 44, 2: 10, 1: 6})
+
+Metrics for Prompt 5:
+Accuracy: 0.213
+Mean Absolute Error (MAE): 1.382
+
+

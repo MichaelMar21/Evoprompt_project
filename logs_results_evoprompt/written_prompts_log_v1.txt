@@ -1,0 +1,746 @@
+Iteration 1
+Prompt: Based on the given tweet that I provide you below, please classify the Sentiment of it on the scale of 1 (Extremely Negative) to 5 (Extremely Positive):
+[TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.19
+
+Prompt: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.194
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.204
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.228
+
+Invalid Samples: 500
+
+Iteration 2
+Prompt: Here are the step-by-step instructions to generate a better prompt:
+
+1. Crossover the following prompts and generate a new prompt:
+   Prompt 1: Classify the sentiment of a tweet into one of five categories.
+   Prompt 2: Please classify this tweet based on its sentiment.
+
+New Prompt: <Classify the sentiment of the given tweet, indicating your response with a number between 1 and 5.>
+
+2. Mutate the prompt generated in Step 1 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt: <Classify the sentiment of the given tweet by assigning it to one of the five predefined categories (1-5) based on its emotional tone, ensuring clarity without unnecessary additional context.>
+Score: 0.198
+
+Prompt: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.194
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.204
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.228
+
+Invalid Samples: 493
+
+Iteration 3
+Prompt: Here are the step-by-step instructions to generate a better prompt:
+
+1. Crossover the following prompts and generate a new prompt:
+   Prompt 1: Classify the sentiment of a tweet into one of five categories.
+   Prompt 2: Please classify this tweet based on its sentiment.
+
+New Prompt: <Classify the sentiment of the given tweet, indicating your response with a number between 1 and 5.>
+
+2. Mutate the prompt generated in Step 1 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt: <Classify the sentiment of the given tweet by assigning it to one of the five predefined categories (1-5) based on its emotional tone, ensuring clarity without unnecessary additional context.>
+Score: 0.198
+
+Prompt: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.194
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.204
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.228
+
+Invalid Samples: 500
+
+Iteration 4
+Prompt: Here are the step-by-step instructions to generate a better prompt:
+
+1. Crossover the following prompts and generate a new prompt:
+   Prompt 1: Classify the sentiment of a tweet into one of five categories.
+   Prompt 2: Please classify this tweet based on its sentiment.
+
+New Prompt: <Classify the sentiment of the given tweet, indicating your response with a number between 1 and 5.>
+
+2. Mutate the prompt generated in Step 1 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt: <Classify the sentiment of the given tweet by assigning it to one of the five predefined categories (1-5) based on its emotional tone, ensuring clarity without unnecessary additional context.>
+Score: 0.198
+
+Prompt: To generate a better prompt, let's follow the instructions step-by-step:
+
+1. Crossover the following prompts and generate a new prompt:
+Prompt 1: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 2: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+New Prompt:
+Classify the sentiment of the provided tweet into one of the 5 categories. Please respond with a single number (1-5) indicating the level of positivity or negativity, without providing any additional context or explanations.
+
+2. Mutate the prompt generated in Step 1 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Classify the sentiment of the provided tweet into one of the 5 categories (Extremely Negative, Negative, Neutral, Positive, Extremely Positive) by responding with a single number (1-5), without additional context or explanations.</prompt>
+Score: 0.202
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.204
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.228
+
+Invalid Samples: 291
+
+Iteration 5
+Prompt: Here are the step-by-step instructions to generate a better prompt:
+
+1. Crossover the following prompts and generate a new prompt:
+   Prompt 1: Classify the sentiment of a tweet into one of five categories.
+   Prompt 2: Please classify this tweet based on its sentiment.
+
+New Prompt: <Classify the sentiment of the given tweet, indicating your response with a number between 1 and 5.>
+
+2. Mutate the prompt generated in Step 1 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt: <Classify the sentiment of the given tweet by assigning it to one of the five predefined categories (1-5) based on its emotional tone, ensuring clarity without unnecessary additional context.>
+Score: 0.198
+
+Prompt: To generate a better prompt, let's follow the instructions step-by-step:
+
+1. Crossover the following prompts and generate a new prompt:
+Prompt 1: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 2: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+New Prompt:
+Classify the sentiment of the provided tweet into one of the 5 categories. Please respond with a single number (1-5) indicating the level of positivity or negativity, without providing any additional context or explanations.
+
+2. Mutate the prompt generated in Step 1 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Classify the sentiment of the provided tweet into one of the 5 categories (Extremely Negative, Negative, Neutral, Positive, Extremely Positive) by responding with a single number (1-5), without additional context or explanations.</prompt>
+Score: 0.202
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.204
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.228
+
+Invalid Samples: 309
+
+Iteration 6
+Prompt: Here are the steps to generate a better prompt:
+
+Step 1: Crossover the following prompts and generate a new prompt:
+
+Original Prompts:
+Prompt 1: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 2: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+New Prompt:
+Classify the sentiment of the provided tweet into one of the five categories (Extremely Negative, Negative, Neutral, Positive, Extremely Positive) by responding with a single number (1-5), without providing any additional context or explanations.
+
+Step 2: Mutate the prompt generated in Step 1 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Classify the sentiment of the provided tweet into one of the five categories (Extremely Negative, Negative, Neutral, Positive, Extremely Positive) by responding with a single number (1-5), without providing any additional context or explanations.</prompt>
+
+Step 3: Mutate the prompt generated in Step 2 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Classify the sentiment of the given tweet, assigning it to one of the five predefined categories (1-5) based on its emotional tone, ensuring clarity without unnecessary additional context.</prompt>
+
+Step 4: Crossover the following prompts and generate a new prompt:
+
+Original Prompts:
+Prompt 1: Classify the sentiment of a tweet into one of five categories.
+Prompt 2: Please classify this tweet based on its sentiment.
+
+New Prompt: <Classify the sentiment of the given tweet, indicating your response with a number between 1 and 5.>
+
+Step 5: Mutate the prompt generated in Step 4 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Classify the sentiment of the given tweet by assigning it to one of the five predefined categories (1-5) based on its emotional tone, ensuring clarity without unnecessary additional context.</prompt>
+
+The final generated prompt is:
+
+<prompt>Classify the sentiment of the given tweet by assigning it to one of the five predefined categories (1-5) based on its emotional tone, ensuring clarity without unnecessary additional context.</prompt>
+Score: 0.202
+
+Prompt: To generate a better prompt, let's follow the instructions step-by-step:
+
+1. Crossover the following prompts and generate a new prompt:
+Prompt 1: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 2: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+New Prompt:
+Classify the sentiment of the provided tweet into one of the 5 categories. Please respond with a single number (1-5) indicating the level of positivity or negativity, without providing any additional context or explanations.
+
+2. Mutate the prompt generated in Step 1 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Classify the sentiment of the provided tweet into one of the 5 categories (Extremely Negative, Negative, Neutral, Positive, Extremely Positive) by responding with a single number (1-5), without additional context or explanations.</prompt>
+Score: 0.202
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.204
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.228
+
+Invalid Samples: 500
+
+Iteration 7
+Prompt: To generate a better prompt, we'll follow the instructions step-by-step.
+
+Step 1: Crossover the following prompts and generate a new prompt:
+
+Original Prompts:
+Prompt 1: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+ 
+* Extremely Negative
+* Negative
+* Neutral
+* Positive
+* Extremely Positive
+
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 2: Classify the sentiment of the following tweet into one of the 5 categories:
+
+1 - Extremely Negative
+2 - Negative
+3 - Neutral
+4 - Positive
+5 - Extremely Positive
+
+Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+New Prompt:
+<prompt>Classify the sentiment of the provided tweet into one of five categories: 1 (Extremely Negative), 2 (Negative), 3 (Neutral), 4 (Positive), or 5 (Extremely Positive) by responding with a single number between 1 and 5, without providing any additional context or explanations.</prompt>
+
+Step 2: Mutate the prompt generated in Step 1 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Classify the sentiment of the provided tweet by selecting one of the five predefined categories (1-5) based on its emotional tone, ensuring clarity without unnecessary additional context.</prompt>
+
+Step 3: Mutate the prompt generated in Step 2 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Assign an emotion score to the tweet from -5 (most negative) to +5 (most positive), using the five-point scale of Extremely Negative, Negative, Neutral, Positive, and Extremely Positive.</prompt>
+
+Step 4: Crossover the following prompts and generate a new prompt:
+
+Original Prompts:
+Prompt 1: Classify the sentiment of a tweet into one of five categories.
+
+Prompt 2: Please classify this tweet based on its sentiment.
+
+New Prompt: <Classify the sentiment of the given tweet, indicating your response with a number between 1 and 5.>
+
+Step 5: Mutate the prompt generated in Step 4 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Assign an emotion score to the provided tweet using the five-point scale of Extremely Negative (-5), Negative (-3), Neutral (0), Positive (+3), and Extremely Positive (+5).</prompt>
+
+The final generated prompt is:
+
+<prompt>Assign an emotion score to the provided tweet using the five-point scale of Extremely Negative (-5), Negative (-3), Neutral (0), Positive (+3), and Extremely Positive (+5).</prompt>
+
+However, I noticed that you mentioned Prompt 2 in Step 2. To correct this, I'll replace it with a new prompt.
+
+Step 1: Crossover the following prompts and generate a new prompt:
+
+Original Prompts:
+Prompt 1: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+ 
+* Extremely Negative
+* Negative
+* Neutral
+* Positive
+* Extremely Positive
+
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 2: Classify the sentiment of the following tweet:
+
+Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+New Prompt:
+<prompt>Classify the sentiment of the provided tweet into one of five categories: Extremely Negative (-5), Negative (-3), Neutral (0), Positive (+3), or Extremely Positive (+5) by responding with a single number.</prompt>
+
+Step 2 and onward remain the same as before.
+Score: 0.22
+
+Prompt: To generate a better prompt, let's follow the instructions step-by-step:
+
+1. Crossover the following prompts and generate a new prompt:
+Prompt 1: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 2: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+New Prompt:
+Classify the sentiment of the provided tweet into one of the 5 categories. Please respond with a single number (1-5) indicating the level of positivity or negativity, without providing any additional context or explanations.
+
+2. Mutate the prompt generated in Step 1 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Classify the sentiment of the provided tweet into one of the 5 categories (Extremely Negative, Negative, Neutral, Positive, Extremely Positive) by responding with a single number (1-5), without additional context or explanations.</prompt>
+Score: 0.202
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.204
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.228
+
+Invalid Samples: 500
+
+Iteration 8
+Prompt: To generate a better prompt, we'll follow the instructions step-by-step.
+
+Step 1: Crossover the following prompts and generate a new prompt:
+
+Original Prompts:
+Prompt 1: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+ 
+* Extremely Negative
+* Negative
+* Neutral
+* Positive
+* Extremely Positive
+
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 2: Classify the sentiment of the following tweet into one of the 5 categories:
+
+1 - Extremely Negative
+2 - Negative
+3 - Neutral
+4 - Positive
+5 - Extremely Positive
+
+Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+New Prompt:
+<prompt>Classify the sentiment of the provided tweet into one of five categories: 1 (Extremely Negative), 2 (Negative), 3 (Neutral), 4 (Positive), or 5 (Extremely Positive) by responding with a single number between 1 and 5, without providing any additional context or explanations.</prompt>
+
+Step 2: Mutate the prompt generated in Step 1 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Classify the sentiment of the provided tweet by selecting one of the five predefined categories (1-5) based on its emotional tone, ensuring clarity without unnecessary additional context.</prompt>
+
+Step 3: Mutate the prompt generated in Step 2 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Assign an emotion score to the tweet from -5 (most negative) to +5 (most positive), using the five-point scale of Extremely Negative, Negative, Neutral, Positive, and Extremely Positive.</prompt>
+
+Step 4: Crossover the following prompts and generate a new prompt:
+
+Original Prompts:
+Prompt 1: Classify the sentiment of a tweet into one of five categories.
+
+Prompt 2: Please classify this tweet based on its sentiment.
+
+New Prompt: <Classify the sentiment of the given tweet, indicating your response with a number between 1 and 5.>
+
+Step 5: Mutate the prompt generated in Step 4 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Assign an emotion score to the provided tweet using the five-point scale of Extremely Negative (-5), Negative (-3), Neutral (0), Positive (+3), and Extremely Positive (+5).</prompt>
+
+The final generated prompt is:
+
+<prompt>Assign an emotion score to the provided tweet using the five-point scale of Extremely Negative (-5), Negative (-3), Neutral (0), Positive (+3), and Extremely Positive (+5).</prompt>
+
+However, I noticed that you mentioned Prompt 2 in Step 2. To correct this, I'll replace it with a new prompt.
+
+Step 1: Crossover the following prompts and generate a new prompt:
+
+Original Prompts:
+Prompt 1: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+ 
+* Extremely Negative
+* Negative
+* Neutral
+* Positive
+* Extremely Positive
+
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 2: Classify the sentiment of the following tweet:
+
+Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+New Prompt:
+<prompt>Classify the sentiment of the provided tweet into one of five categories: Extremely Negative (-5), Negative (-3), Neutral (0), Positive (+3), or Extremely Positive (+5) by responding with a single number.</prompt>
+
+Step 2 and onward remain the same as before.
+Score: 0.22
+
+Prompt: To generate a better prompt, let's follow the instructions step-by-step:
+
+1. Crossover the following prompts and generate a new prompt:
+Prompt 1: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 2: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+New Prompt:
+Classify the sentiment of the provided tweet into one of the 5 categories. Please respond with a single number (1-5) indicating the level of positivity or negativity, without providing any additional context or explanations.
+
+2. Mutate the prompt generated in Step 1 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Classify the sentiment of the provided tweet into one of the 5 categories (Extremely Negative, Negative, Neutral, Positive, Extremely Positive) by responding with a single number (1-5), without additional context or explanations.</prompt>
+Score: 0.202
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.204
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.228
+
+Invalid Samples: 220
+
+Iteration 9
+Prompt: To generate a better prompt, we'll follow the instructions step-by-step.
+
+Step 1: Crossover the following prompts and generate a new prompt:
+
+Original Prompts:
+Prompt 1: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+ 
+* Extremely Negative
+* Negative
+* Neutral
+* Positive
+* Extremely Positive
+
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 2: Classify the sentiment of the following tweet into one of the 5 categories:
+
+1 - Extremely Negative
+2 - Negative
+3 - Neutral
+4 - Positive
+5 - Extremely Positive
+
+Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+New Prompt:
+<prompt>Classify the sentiment of the provided tweet into one of five categories: 1 (Extremely Negative), 2 (Negative), 3 (Neutral), 4 (Positive), or 5 (Extremely Positive) by responding with a single number between 1 and 5, without providing any additional context or explanations.</prompt>
+
+Step 2: Mutate the prompt generated in Step 1 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Classify the sentiment of the provided tweet by selecting one of the five predefined categories (1-5) based on its emotional tone, ensuring clarity without unnecessary additional context.</prompt>
+
+Step 3: Mutate the prompt generated in Step 2 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Assign an emotion score to the tweet from -5 (most negative) to +5 (most positive), using the five-point scale of Extremely Negative, Negative, Neutral, Positive, and Extremely Positive.</prompt>
+
+Step 4: Crossover the following prompts and generate a new prompt:
+
+Original Prompts:
+Prompt 1: Classify the sentiment of a tweet into one of five categories.
+
+Prompt 2: Please classify this tweet based on its sentiment.
+
+New Prompt: <Classify the sentiment of the given tweet, indicating your response with a number between 1 and 5.>
+
+Step 5: Mutate the prompt generated in Step 4 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Assign an emotion score to the provided tweet using the five-point scale of Extremely Negative (-5), Negative (-3), Neutral (0), Positive (+3), and Extremely Positive (+5).</prompt>
+
+The final generated prompt is:
+
+<prompt>Assign an emotion score to the provided tweet using the five-point scale of Extremely Negative (-5), Negative (-3), Neutral (0), Positive (+3), and Extremely Positive (+5).</prompt>
+
+However, I noticed that you mentioned Prompt 2 in Step 2. To correct this, I'll replace it with a new prompt.
+
+Step 1: Crossover the following prompts and generate a new prompt:
+
+Original Prompts:
+Prompt 1: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+ 
+* Extremely Negative
+* Negative
+* Neutral
+* Positive
+* Extremely Positive
+
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 2: Classify the sentiment of the following tweet:
+
+Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+New Prompt:
+<prompt>Classify the sentiment of the provided tweet into one of five categories: Extremely Negative (-5), Negative (-3), Neutral (0), Positive (+3), or Extremely Positive (+5) by responding with a single number.</prompt>
+
+Step 2 and onward remain the same as before.
+Score: 0.22
+
+Prompt: To generate a better prompt, let's follow the instructions step-by-step:
+
+1. Crossover the following prompts and generate a new prompt:
+Prompt 1: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 2: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+New Prompt:
+Classify the sentiment of the provided tweet into one of the 5 categories. Please respond with a single number (1-5) indicating the level of positivity or negativity, without providing any additional context or explanations.
+
+2. Mutate the prompt generated in Step 1 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Classify the sentiment of the provided tweet into one of the 5 categories (Extremely Negative, Negative, Neutral, Positive, Extremely Positive) by responding with a single number (1-5), without additional context or explanations.</prompt>
+Score: 0.202
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.204
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.228
+
+Invalid Samples: 496
+
+Iteration 10
+Prompt: To generate a better prompt, we'll follow the instructions step-by-step.
+
+Step 1: Crossover the following prompts and generate a new prompt:
+
+Original Prompts:
+Prompt 1: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+ 
+* Extremely Negative
+* Negative
+* Neutral
+* Positive
+* Extremely Positive
+
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 2: Classify the sentiment of the following tweet into one of the 5 categories:
+
+1 - Extremely Negative
+2 - Negative
+3 - Neutral
+4 - Positive
+5 - Extremely Positive
+
+Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+New Prompt:
+<prompt>Classify the sentiment of the provided tweet into one of five categories: 1 (Extremely Negative), 2 (Negative), 3 (Neutral), 4 (Positive), or 5 (Extremely Positive) by responding with a single number between 1 and 5, without providing any additional context or explanations.</prompt>
+
+Step 2: Mutate the prompt generated in Step 1 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Classify the sentiment of the provided tweet by selecting one of the five predefined categories (1-5) based on its emotional tone, ensuring clarity without unnecessary additional context.</prompt>
+
+Step 3: Mutate the prompt generated in Step 2 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Assign an emotion score to the tweet from -5 (most negative) to +5 (most positive), using the five-point scale of Extremely Negative, Negative, Neutral, Positive, and Extremely Positive.</prompt>
+
+Step 4: Crossover the following prompts and generate a new prompt:
+
+Original Prompts:
+Prompt 1: Classify the sentiment of a tweet into one of five categories.
+
+Prompt 2: Please classify this tweet based on its sentiment.
+
+New Prompt: <Classify the sentiment of the given tweet, indicating your response with a number between 1 and 5.>
+
+Step 5: Mutate the prompt generated in Step 4 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Assign an emotion score to the provided tweet using the five-point scale of Extremely Negative (-5), Negative (-3), Neutral (0), Positive (+3), and Extremely Positive (+5).</prompt>
+
+The final generated prompt is:
+
+<prompt>Assign an emotion score to the provided tweet using the five-point scale of Extremely Negative (-5), Negative (-3), Neutral (0), Positive (+3), and Extremely Positive (+5).</prompt>
+
+However, I noticed that you mentioned Prompt 2 in Step 2. To correct this, I'll replace it with a new prompt.
+
+Step 1: Crossover the following prompts and generate a new prompt:
+
+Original Prompts:
+Prompt 1: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+ 
+* Extremely Negative
+* Negative
+* Neutral
+* Positive
+* Extremely Positive
+
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 2: Classify the sentiment of the following tweet:
+
+Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+New Prompt:
+<prompt>Classify the sentiment of the provided tweet into one of five categories: Extremely Negative (-5), Negative (-3), Neutral (0), Positive (+3), or Extremely Positive (+5) by responding with a single number.</prompt>
+
+Step 2 and onward remain the same as before.
+Score: 0.22
+
+Prompt: Here are the steps to generate a better prompt:
+
+Step 1: Crossover the following prompts and generate a new prompt.
+
+Prompt 1: To generate a better prompt, let's follow the instructions step-by-step:
+
+1. Crossover the following prompts and generate a new prompt:
+Prompt 1: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 2: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+New Prompt:
+Classify the sentiment of the provided tweet into one of the 5 categories, with responses ranging from 1 (most negative) to 5 (most positive), providing just a numerical answer without further explanation.
+
+Step 2: Mutate the prompt generated in Step 1 and generate a final prompt bracketed with <prompt> and </prompt>.
+
+Final Prompt:
+<prompt>Classify the sentiment of the provided tweet into one of the 5 categories (Extremely Negative, Negative, Neutral, Positive, Extremely Positive), requiring only a numerical response between 1-5 without additional context or explanations.</prompt>
+
+Step 3: Consider any further improvements to the final prompt. In this case, no additional changes are needed, so we can move on to the next step.
+
+Final Final Prompt:
+<prompt>Classify the sentiment of the tweet into one of the 5 categories (Extremely Negative, Negative, Neutral, Positive, Extremely Positive), requiring a single numerical response between 1-5 without further explanation.</prompt>
+
+This revised prompt is clear, concise, and specific, ensuring that you understand what's required to provide an accurate answer.
+Score: 0.222
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.204
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.228
+
+Invalid Samples: 489
+

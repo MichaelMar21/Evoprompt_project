@@ -1,0 +1,63 @@
+MODEL SETTINGS: 
+{'temperature': 0.7, 'num_predict': 1, 'repeat_penalty': 1, 'top_k': 10, 'top_p': 0.9}
+
+
+----------------------------------------------------------------------------------------------------
+PROMPT NUMBER 1
+Prompt text: 
+Based on the given tweet that I provide you below, please classify the Sentiment of it on the scale of 1 (Extremely Negative) to 5 (Extremely Positive):
+[TWEET]
+
+Prompt 1 - Invalid Samples: 9
+Prompt 1 - Most Common Answers: Counter({4: 1222, 3: 551, 2: 117, 5: 107, 1: 3})
+
+Metrics for Prompt 1:
+Accuracy: 0.2085
+Mean Absolute Error (MAE): 1.3895
+
+
+----------------------------------------------------------------------------------------------------
+PROMPT NUMBER 2
+Prompt text: 
+You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+
+Prompt 2 - Invalid Samples: 28
+Prompt 2 - Most Common Answers: Counter({3: 996, 2: 541, 4: 458, 1: 5})
+
+Metrics for Prompt 2:
+Accuracy: 0.2005
+Mean Absolute Error (MAE): 1.3145
+
+
+----------------------------------------------------------------------------------------------------
+PROMPT NUMBER 3
+Prompt text: 
+[TWEET] - can you classify it on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment?
+
+Prompt 3 - Invalid Samples: 224
+Prompt 3 - Most Common Answers: Counter({4: 1027, 3: 681, 2: 215, 1: 54, 5: 23})
+
+Metrics for Prompt 3:
+Accuracy: 0.2125
+Mean Absolute Error (MAE): 1.329
+
+
+----------------------------------------------------------------------------------------------------
+PROMPT NUMBER 4
+Prompt text: 
+Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+
+Prompt 4 - Invalid Samples: 3
+Prompt 4 - Most Common Answers: Counter({2: 892, 4: 511, 3: 490, 1: 70, 5: 37})
+
+Metrics for Prompt 4:
+Accuracy: 0.2445
+Mean Absolute Error (MAE): 1.1985
+
+

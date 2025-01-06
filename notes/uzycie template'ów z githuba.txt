@@ -1,0 +1,10 @@
+uzycie template'ów
+
+
+prompt1 = "Classify this review as positive or negative."
+prompt2 = "Determine whether the sentiment of this text is good or bad."
+
+template = templates_2["cls"]
+request = template.replace("<prompt1>", prompt1).replace("<prompt2>", prompt2)
+
+print(request)

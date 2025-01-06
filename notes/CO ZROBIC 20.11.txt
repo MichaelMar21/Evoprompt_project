@@ -1,0 +1,13 @@
+Ollama (llama 3.2 3b / 1b)
+
+
+evoluter.py
+template_ga.py (templatki do promptów)
+evolution.py
+
+wybieramy 2 losowe z populacji 
+
+
+Uruchomić jakiś model i dostać wyniki na zbiorze danych
+Zaczac implementować metody ewolucji (artyukl str 3. Alg.1)
+

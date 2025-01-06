@@ -1,0 +1,16 @@
+{
+    "written_prompts": {
+        "prompt_1": "Based on the given tweet that I provide you below, please classify the Sentiment of it on the scale of 1 (Extremely Negative) to 5 (Extremely Positive):\n[TWEET]\nYour response must be a single number between 1 and 5. Do not include any additional text.",
+        "prompt_2": "You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:\n\nExtremely Negative\nNegative\nNeutral\nPositive\nExtremely Positive\nYour response must be a single number between 1 and 5. Do not include any additional text.",
+        "prompt_3": "[TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.",
+        "prompt_4": "Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]\nYour response must be a single number between 1 and 5. Do not include any additional text."
+        },
+
+    "generated_prompts" : {
+        "prompt_1": "Classify the following tweet about the pandemic as one of the following sentiments: Extremely Negative, Negative, Neutral, Positive, or Extremely Positive. Provide only the sentiment classification. Here is the tweet: [INSERT TWEET HERE].  Your response must be a single number between 1 and 5. Do not include any additional text.",
+        "prompt_2": "During the COVID-19 pandemic, people expressed a wide range of emotions in their tweets. Given this context, classify the sentiment of the following tweet as: Extremely Negative, Negative, Neutral, Positive, or Extremely Positive. Tweet: [INSERT TWEET HERE]. Your response must be a single number between 1 and 5. Do not include any additional text.",
+        "prompt_3": "Analyze the sentiment of this tweet related to the COVID-19 pandemic. Classify it into one of the following categories:\n\nExtremely Negative: Expresses intense frustration, fear, or anger.\nNegative: Expresses mild disappointment or discontent.\nNeutral: Expresses no strong emotion, just stating facts or opinions neutrally.\nPositive: Expresses mild hope or satisfaction.\nExtremely Positive: Expresses strong optimism, joy, or relief.\n\nHere is the tweet: [INSERT TWEET HERE]\n Your response must be a single number between 1 and 5. Do not include any additional text.",
+        "prompt_4": "Determine the sentiment of the following tweet posted during the COVID-19 pandemic. Consider the overall emotion and tone expressed. Classify it as: Extremely Negative, Negative, Neutral, Positive, or Extremely Positive. Tweet: [INSERT TWEET HERE]\n Your response must be a single number between 1 and 5. Do not include any additional text.",
+        "prompt_5": "Classify the sentiment of this tweet related to the pandemic into one of these categories: Extremely Negative, Negative, Neutral, Positive, or Extremely Positive. Here is the tweet: [INSERT TWEET HERE]\n Your response must be a single number between 1 and 5. Do not include any additional text."
+    }
+}

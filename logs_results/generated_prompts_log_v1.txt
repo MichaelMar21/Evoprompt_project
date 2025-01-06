@@ -1,0 +1,11 @@
+MODEL SETTINGS: 
+{'temperature': 0.1, 'num_predict': 1, 'repeat_penalty': 1, 'top_k': 1, 'top_p': 0.1}
+
+
+----------------------------------------------------------------------------------------------------
+PROMPT NUMBER 1
+Prompt text: 
+Classify the following tweet about the pandemic as one of the following sentiments: Extremely Negative, Negative, Neutral, Positive, or Extremely Positive. Provide only the sentiment classification. Here is the tweet: [INSERT TWEET HERE]
+
+Prompt 1 - Invalid Samples: 0
+Prompt 1 - Most Common Answers: Counter({3: 987, 4: 925, 2: 52, 5: 30, 1: 6})
