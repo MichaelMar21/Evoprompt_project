@@ -1,0 +1,66 @@
+MODEL SETTINGS: 
+{'temperature': 0.7, 'num_predict': 1, 'repeat_penalty': 1, 'top_k': 10, 'top_p': 0.9}
+
+
+----------------------------------------------------------------------------------------------------
+PROMPT NUMBER 1
+Prompt text: 
+Based on the given tweet that I provide you below, please classify the Sentiment of it on the scale of 1 (Extremely Negative) to 5 (Extremely Positive):
+[TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 1 - Invalid Samples: 6
+Prompt 1 - Most Common Answers: Counter({1: 660, 2: 534, 3: 344, 4: 269, 5: 193})
+
+Metrics for Prompt 1:
+Accuracy: 0.3115
+Mean Absolute Error (MAE): 1.2225
+
+
+----------------------------------------------------------------------------------------------------
+PROMPT NUMBER 2
+Prompt text: 
+You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 2 - Invalid Samples: 51
+Prompt 2 - Most Common Answers: Counter({2: 667, 1: 629, 3: 412, 5: 240, 4: 52})
+
+Metrics for Prompt 2:
+Accuracy: 0.294
+Mean Absolute Error (MAE): 1.2675
+
+
+----------------------------------------------------------------------------------------------------
+PROMPT NUMBER 3
+Prompt text: 
+[TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 3 - Invalid Samples: 0
+Prompt 3 - Most Common Answers: Counter({1: 837, 2: 582, 3: 226, 5: 178, 4: 177})
+
+Metrics for Prompt 3:
+Accuracy: 0.29
+Mean Absolute Error (MAE): 1.3365
+
+
+----------------------------------------------------------------------------------------------------
+PROMPT NUMBER 4
+Prompt text: 
+Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+
+Prompt 4 - Invalid Samples: 0
+Prompt 4 - Most Common Answers: Counter({2: 964, 3: 416, 4: 319, 1: 243, 5: 58})
+
+Metrics for Prompt 4:
+Accuracy: 0.2895
+Mean Absolute Error (MAE): 1.1215
+
+
