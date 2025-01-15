@@ -1,0 +1,100 @@
+Iteration 1
+Prompt: Classify the sentiment expressed in this specific COVID-19 related tweet using numbers ranging from 1 (Extremely Negative) to 5 (Extremely Positive), and provide just a single numerical response without extra commentary. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.272
+Invalid Samples: 0
+
+Iteration 2
+Prompt: Classify the provided COVID-19 related tweet's sentiment by assigning a single number between 1 (Extremely Negative) to 5 (Extremely Positive), without additional explanation. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.274
+Invalid Samples: 1
+
+Iteration 3
+Prompt: Classify the sentiment of this specific tweet related to COVID-19 pandemic, by assessing its emotional tone or overall feeling and assign it a value from 1 (Extremely Negative) to 5 (Extremely Positive), without providing any supplementary text. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.244
+Invalid Samples: 2
+
+Iteration 4
+Prompt: Assign a sentiment score between 1 and 5 for the given pandemic-related tweet based on its positivity or negativity. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.204
+Invalid Samples: 500
+
+Iteration 5
+Prompt: Analyze the sentiment of the given COVID-19 related tweet, providing only a numerical score from 1 (Extremely Negative) to 5 (Extremely Positive), without extra explanation or commentary. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.276
+Invalid Samples: 3
+
+Iteration 6
+Prompt: Analyze the sentiment of a provided pandemic or specifically related to COVID-19 Twitter post by assigning it a single numerical value between 1 (Extremely Negative) and 5 (Extremely Positive), without adding any supplementary explanation. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.262
+Invalid Samples: 1
+
+Iteration 7
+Prompt: Analyze the sentiment of a simplified COVID-19 related Twitter post in numerical form from 1 (Extremely Negative) to 5 (Extremely Positive), followed by rewriting it using easier language without additional explanations. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.188
+Invalid Samples: 500
+
+Iteration 8
+Prompt: Classify the given COVID-19 related tweet's sentiment into one numerical value ranging from 1 (Extremely Negative) to 5 (Extremely Positive), providing only a single digit response. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.29
+Invalid Samples: 4
+
+Iteration 9
+Prompt: Determine and assign a single number from 1 to 5 indicating the sentiment of the given COVID-19 related tweet, representing its positivity or negativity level succinctly. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.284
+Invalid Samples: 5
+
+Iteration 10
+Prompt: Assign a single number between 1 (Extremely Negative) to 5 (Extremely Positive) representing the sentiment of any given tweet about COVID-19. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.264
+Invalid Samples: 195
+
+Iteration 11
+Prompt: Assign a single number between 1 (Extremely Negative) to 5 (Extremely Positive) representing the sentiment expressed in the provided COVID-19 related tweet, without additional explanation or commentary. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.274
+Invalid Samples: 2
+
+Iteration 12
+Prompt: Assign a numerical sentiment score between 1 (Extremely Negative) and 5 (Extremely Positive) to the given COVID-19 related tweet. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.174
+Invalid Samples: 497
+
+Iteration 13
+Prompt: Classify the provided simple yet clear explanation or summary regarding sentiment towards a COVID-19 related tweet into one number (from 1 - Extremely Negative to 5 - Extremely Positive), ensuring that any complex language is simplified without additional explanations. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.252
+Invalid Samples: 45
+
+Iteration 14
+Prompt: Evaluate and simplify the given COVID-19 related tweet by assigning it an appropriate positive (5) to negative (1) sentiment score numerically, ensuring clarity in expression without further elaboration. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.288
+Invalid Samples: 68
+
+Iteration 15
+Prompt: Assign a clear positive (5) to negative (1) numerical sentiment score based on the essence of the given COVID-19 related tweet's content. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.19
+Invalid Samples: 493
+
+Iteration 16
+Prompt: Classify the provided COVID-19 related tweet's sentiment as a single number between 1 (Extremely Negative) to 5 (Extremely Positive), simplifying both linguistic complexity and task description. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.23
+Invalid Samples: 294
+
+Iteration 17
+Prompt: Assign a single number between 1 (extremely negative) and 5 (extremely positive) indicating the sentiment of the provided COVID-19 related tweet without further explanation. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.286
+Invalid Samples: 1
+
+Iteration 18
+Prompt: Assign a clear numeric sentiment value ranging from 1 (highly critical or pessimistic about COVID-19 related content in the tweet) to 5 (strongly optimistic, with positive implications), then rephrase it for simplicity without altering its original meaning. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.18
+Invalid Samples: 500
+
+Iteration 19
+Prompt: Simplify the given COVID-19 related tweet when necessary for clarity, then assign it an appropriate sentiment rating from 1 to 5 based solely on positivity or negativity without additional explanation. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.206
+Invalid Samples: 500
+
+Iteration 20
+Prompt: Assign an unambiguous positive (5) to negative (1) sentiment numerical score from 1 to 5, summarizing a COVID-related tweet's tone for clarity. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.3
+Invalid Samples: 225
+

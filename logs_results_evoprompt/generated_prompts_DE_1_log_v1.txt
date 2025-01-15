@@ -1,0 +1,99 @@
+Iteration 1  
+Prompt: Evaluate the given tweet and assign a sentiment score from 1 (Extremely Negative) to 5 (Extremely Positive). Keep the response concise, using only one number to represent the sentiment. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.254  
+Invalid Samples: 19  
+
+Iteration 2  
+Prompt: Assess the sentiment of the tweet by determining a single numeral between 1 (Very Negative) and 5 (Very Positive). Focus on the tweet's emotional tone, and give a concise numerical response. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.284  
+Invalid Samples: 45  
+
+Iteration 3  
+Prompt: Analyze the provided tweet's emotional content and classify its sentiment with a single numerical score from 1 (Extremely Negative) to 5 (Extremely Positive). Present your answer as a single-digit numeral without any additional text. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.224  
+Invalid Samples: 78  
+
+Iteration 4  
+Prompt: Determine a sentiment score for the provided tweet. Your response should be a single digit between 1 (Highly Negative) and 5 (Highly Positive). Avoid explanations and simply state the numeral. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.262  
+Invalid Samples: 23  
+
+Iteration 5  
+Prompt: Based on the emotional tone of the tweet, classify it into one of the sentiment categories from 1 (Extremely Negative) to 5 (Extremely Positive). Provide your answer as a concise single-digit number. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.278  
+Invalid Samples: 92  
+
+Iteration 6  
+Prompt: Evaluate the emotional tone of the given tweet and assign a corresponding sentiment score between 1 (Negative) and 5 (Positive). Provide your response in a single numerical format. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.218  
+Invalid Samples: 66  
+
+Iteration 7  
+Prompt: Analyze the sentiment of the tweet, assign a score between 1 (Extremely Negative) and 5 (Extremely Positive), and represent it as a single number without adding further text. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.278  
+Invalid Samples: 3  
+
+Iteration 8  
+Prompt: Classify the tweet's sentiment by providing a one-digit numerical score, ranging from 1 (Very Negative) to 5 (Very Positive), without any additional explanations. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.286  
+Invalid Samples: 72  
+
+Iteration 9  
+Prompt: Examine the sentiment expressed in the provided tweet and determine a score from 1 (Very Negative) to 5 (Very Positive). Respond with just the numeral. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.194  
+Invalid Samples: 109  
+
+Iteration 10  
+Prompt: Assign a sentiment rating to the provided tweet using a scale from 1 to 5, where 1 indicates an extremely negative sentiment and 5 an extremely positive sentiment. Give your answer as a single number. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.272  
+Invalid Samples: 5  
+
+Iteration 11  
+Prompt: Analyze the provided tweet's tone and determine the sentiment score between 1 (Most Negative) and 5 (Most Positive). Reply with a single numerical value. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.258  
+Invalid Samples: 41  
+
+Iteration 12  
+Prompt: Assess the tweet’s sentiment and assign a one-digit score from 1 (Extremely Negative) to 5 (Extremely Positive). Deliver the answer in a succinct numeral format. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.204  
+Invalid Samples: 94  
+
+Iteration 13  
+Prompt: Review the emotional tone of the given tweet and respond with a sentiment rating from 1 to 5. Use a single number to convey the score. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.274  
+Invalid Samples: 17  
+
+Iteration 14  
+Prompt: Judge the sentiment of the provided tweet by assigning a score on a scale of 1 (Negative) to 5 (Positive). Give your answer as one concise numeral. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.198  
+Invalid Samples: 38  
+
+Iteration 15  
+Prompt: Classify the tweet’s sentiment as a numerical value between 1 (Highly Negative) and 5 (Highly Positive). Avoid additional comments, presenting only the score. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.204  
+Invalid Samples: 11  
+
+Iteration 16  
+Prompt: Rate the sentiment of the provided tweet using a scale of 1 (Extremely Negative) to 5 (Extremely Positive), and give your answer as a single number. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.236  
+Invalid Samples: 2  
+
+Iteration 17  
+Prompt: Determine a sentiment score for the tweet by analyzing its tone, choosing a value between 1 and 5, and reply with just one numeral. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.264  
+Invalid Samples: 73  
+
+Iteration 18  
+Prompt: Evaluate the sentiment of the given tweet and respond with a score from 1 (Negative) to 5 (Positive), providing only a single-digit answer. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.212  
+Invalid Samples: 98  
+
+Iteration 19  
+Prompt: Based on the tweet's sentiment, assign a score ranging from 1 (Highly Negative) to 5 (Highly Positive), and return it as a concise number. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.284  
+Invalid Samples: 54  
+
+Iteration 20  
+Prompt: Assess the overall emotional tone of the provided tweet and deliver a sentiment rating on a scale of 1 to 5, expressed as a single numeral. Tweet: [INSERT TWEET HERE]  
+Accuracy Score: 0.226  
+Invalid Samples: 82  

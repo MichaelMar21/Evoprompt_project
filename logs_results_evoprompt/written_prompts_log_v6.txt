@@ -1,0 +1,250 @@
+Iteration 1
+Prompt: Based on the given tweet that I provide you below, please classify the Sentiment of it on the scale of 1 (Extremely Negative) to 5 (Extremely Positive):
+[TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.286
+
+Prompt: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.278
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.28
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.262
+
+Invalid Samples: 0
+
+Iteration 2
+Prompt: Based on the given tweet that I provide you below, please classify the Sentiment of it on the scale of 1 (Extremely Negative) to 5 (Extremely Positive):
+[TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.286
+
+Prompt: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.278
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.28
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.262
+
+Invalid Samples: 0
+
+Iteration 3
+Prompt: Based on the given tweet that I provide you below, please classify the Sentiment of it on the scale of 1 (Extremely Negative) to 5 (Extremely Positive):
+[TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.286
+
+Prompt: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.278
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.28
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.262
+
+Invalid Samples: 0
+
+Iteration 4
+Prompt: Based on the given tweet that I provide you below, please classify the Sentiment of it on the scale of 1 (Extremely Negative) to 5 (Extremely Positive):
+[TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.286
+
+Prompt: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.278
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.28
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.262
+
+Invalid Samples: 0
+
+Iteration 5
+Prompt: Based on the given tweet that I provide you below, please classify the Sentiment of it on the scale of 1 (Extremely Negative) to 5 (Extremely Positive):
+[TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.286
+
+Prompt: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.278
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.28
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.262
+
+Invalid Samples: 381
+
+Iteration 6
+Prompt: Based on the given tweet that I provide you below, please classify the Sentiment of it on the scale of 1 (Extremely Negative) to 5 (Extremely Positive):
+[TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.286
+
+Prompt: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.278
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.28
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.262
+
+Invalid Samples: 0
+
+Iteration 7
+Prompt: Based on the given tweet that I provide you below, please classify the Sentiment of it on the scale of 1 (Extremely Negative) to 5 (Extremely Positive):
+[TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.286
+
+Prompt: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.278
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.28
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.262
+
+Invalid Samples: 0
+
+Iteration 8
+Prompt: Based on the given tweet that I provide you below, please classify the Sentiment of it on the scale of 1 (Extremely Negative) to 5 (Extremely Positive):
+[TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.286
+
+Prompt: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.278
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.28
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.262
+
+Invalid Samples: 0
+
+Iteration 9
+Prompt: Based on the given tweet that I provide you below, please classify the Sentiment of it on the scale of 1 (Extremely Negative) to 5 (Extremely Positive):
+[TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.286
+
+Prompt: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.278
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.28
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.262
+
+Invalid Samples: 0
+
+Iteration 10
+Prompt: Based on the given tweet that I provide you below, please classify the Sentiment of it on the scale of 1 (Extremely Negative) to 5 (Extremely Positive):
+[TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.286
+
+Prompt: You are such a clever model in tasks like classification. Can you please classify this tweet: [TWEET] - based on its sentiment, into one of those 5 categories:
+
+Extremely Negative
+Negative
+Neutral
+Positive
+Extremely Positive
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.278
+
+Prompt: [TWEET] - can you classify this tweet on the scale of 1 (Extremely Negative) to 5 (Extremely Positive), based on its Sentiment? Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.28
+
+Prompt: Classify the sentiment of the following tweet into one of the 5 categories: 1 - Extremely Negative, 2 - Negative, 3 - Neutral, 4 - Positive, 5 - Extremely Positive. Tweet: [TWEET]
+Your response must be a single number between 1 and 5. Do not include any additional text.
+Score: 0.262
+
+Invalid Samples: 0
+

@@ -1,0 +1,100 @@
+Iteration 1
+Prompt: Classify the sentiment of the given tweet about the COVID-19 pandemic using numbers where 1 represents Extremely Negative, 2 is Negative, 3 stands for Neutral, 4 means Positive, and 5 signifies Extremely Positive. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.212
+Invalid Samples: 412
+
+Iteration 2
+Prompt: Analyze the sentiment of the given pandemic-related Twitter post by assigning it as either 1 (Extremely Negative), 2 (Negative), 3 (Neutral), 4 (Positive), or 5 (Extremely Positive). No supplementary details are required. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.238
+Invalid Samples: 1
+
+Iteration 3
+Prompt: Classify the sentiment expressed in a specified tweet about the COVID-19 pandemic using numerical values, where 1 indicates an extremely negative outlook and 5 signifies extreme positivity. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.216
+Invalid Samples: 500
+
+Iteration 4
+Prompt: Determine the sentiment of a given Twitter post related to the COVID-19 situation using numbers ranging from 1 (extremely negative) to 5 (highly positive), with no extra commentary. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.308
+Invalid Samples: 2
+
+Iteration 5
+Prompt: Analyze both provided Twitter posts about COVID-19 by assigning a sentiment score between 1 (extremely negative) and 5 (highly positive), without additional commentary, capturing the overall emotion and tone expressed in each. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.294
+Invalid Samples: 8
+
+Iteration 6
+Prompt: Classify the sentiment of the provided pandemic-related Twitter tweet as either 1 (Extremely Negative), 2 (Negative), 3 (Neutral), 4 (Positive), or 5 (Extremely Positive) by assessing its overall emotion and tone, then give a single number classification. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.238
+Invalid Samples: 9
+
+Iteration 7
+Prompt: Analyze the sentiment of the provided pandemic-related Twitter tweet by assigning it as either 1 (Extremely Negative), 2 (Negative), 3 (Neutral), 4 (Positive), or 5 (Extremely Positive) based on its overall emotion and tone, then provide a single number classification without additional details. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.26
+Invalid Samples: 0
+
+Iteration 8
+Prompt: Perform an assessment of pandemic-related Twitter tweets by simplifying their complex content for easier understanding, then analyze the sentiment expressed in these simplified versions assigning them as either 1 (Extremely Negative), 2 (Negative), 3 (Neutral), 4 (Positive), or 5 (Extremely Positive) without providing additional details. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.182
+Invalid Samples: 473
+
+Iteration 9
+Prompt: Assign a single numbered sentiment score (between 1 and 5) to each given COVID-related Twitter tweet that captures its emotional tone. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.24
+Invalid Samples: 193
+
+Iteration 10
+Prompt: Assess and classify the emotional sentiment expressed in a given Twitter post about COVID-19, simplifying its core message while assigning it a precise number rating between 1 (Extremely Negative) and 5 (Highly Positive), focusing on both clarity of essence reduction and accurate sentiment categorization. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.202
+Invalid Samples: 500
+
+Iteration 11
+Prompt: Classify the sentiment of given COVID-related Twitter tweets using numerical scores (1 to 5), capturing their emotional tone, and concurrently rewrite these insights into simpler text form that retains the original message about pandemic sentiments. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.2
+Invalid Samples: 499
+
+Iteration 12
+Prompt: Analyze and assign a numerical sentiment score between 1 and 5, reflecting the emotional tone of given COVID-related Tweets without additional commentary. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.262
+Invalid Samples: 56
+
+Iteration 13
+Prompt: Analyze provided Twitter posts about COVID-19 by assigning a sentiment score between 1 (extremely negative) and 5 (highly positive), capturing the overall emotion and tone expressed in each post without additional commentary. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.294
+Invalid Samples: 16
+
+Iteration 14
+Prompt: Assign a sentiment score between 1 (extremely negative) and 5 (highly positive) capturing the emotional tone expressed in given tweets related to COVID-19. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.202
+Invalid Samples: 500
+
+Iteration 15
+Prompt: Analyze both given tweets about COVID-19 by assigning a precise sentiment score from 1 to 5, representing the emotional tone conveyed with no extra comments. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.264
+Invalid Samples: 66
+
+Iteration 16
+Prompt: Assign a precise sentiment score ranging from 1 to 5, representing the emotional tone conveyed without additional comments for given tweets about COVID-19. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.276
+Invalid Samples: 14
+
+Iteration 17
+Prompt: Assign a precise sentiment score between 1 and 5 (with no extra comments) to the given tweets about COVID-19 found on social media platforms like Twitter that captures their overall emotional tone. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.236
+Invalid Samples: 0
+
+Iteration 18
+Prompt: Assign precise sentiment scores ranging from 1 (extremely negative) to 5 (highly positive) for provided COVID-19 related tweets, capturing their emotional tone without extra commentary. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.296
+Invalid Samples: 22
+
+Iteration 19
+Prompt: Assign a clear and simple sentiment score between 1 (very negative) to 5 (very positive), reflecting just the emotion felt in each COVID-19 related tweet, using straightforward summaries where necessary. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.244
+Invalid Samples: 324
+
+Iteration 20
+Prompt: Assign a sentiment score between 1 and 5 (with 1 being very negative and 5 being extremely positive) to reflect the emotional tone of provided COVID-19 related tweets, exclusively focusing on capturing their sentiments without further commentary. Tweet: [INSERT TWEET HERE]
+Accuracy Score: 0.278
+Invalid Samples: 6
+
